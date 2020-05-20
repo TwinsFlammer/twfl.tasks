@@ -6,4 +6,4 @@
     - related to (Tarefa relacionada ao servidor ???)
     - status (Estado atual da tarefa)
     - type (Tipo da tarefa)
-  - Associed to one director and one developer (The director must test and approve so that he can enter the official server.)
+  - Associed to one director (The director must be test and approve so that he can enter to the official server.)
